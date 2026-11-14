@@ -1,17 +1,14 @@
-# C++ Essentials 1 — Course Certificate
+# Course Completion Certificates
 
-Certificate of completion for **C++ Essentials 1**, earned through the **Cisco Networking Academy** program and the **C++ Institute**, offered through **Riphah International University**.
+Verified course-completion evidence for Shan (BS Artificial Intelligence).
 
-- **Learner:** Shan
-- **Completed:** 29 December 2025
-- **Course:** C++ Essentials 1
-- **Focus:** C++ fundamentals, control flow, functions, arrays, pointers, and core programming principles
+## Cisco Networking Academy / C++ Institute
 
-## Certificate files
+- [C++ Essentials 1 — PDF](cisco/cpp-essentials-1/certificate.pdf)
+- [C++ Essentials 1 — PNG](cisco/cpp-essentials-1/certificate.png)
 
-- [Certificate PDF](CEssentials1Update20251230-27-ls2fgx.pdf)
-- [Certificate image](c-essentials-1.png)
+**Completed:** 29 December 2025, according to the previously recorded certificate information.
 
-> This repository stores course-completion evidence, not a professional C++ certification exam credential or a source-code project.
+This repository is an archive of course-completion evidence, **not** a claim of passing a separate professional certification examination. Additional certificates should be added only after their documents are verified.
 
-[GitHub Profile](https://github.com/zahidmehar) · [LinkedIn](https://www.linkedin.com/in/shan-shahid-ai)
+[GitHub profile](https://github.com/ShanShahidAI) · [LinkedIn](https://www.linkedin.com/in/shan-shahid-ai)
